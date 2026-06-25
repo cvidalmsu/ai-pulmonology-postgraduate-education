@@ -1,0 +1,7 @@
+dimension,items,cronbach_alpha,interpretation
+AI Literacy,Q02-Q12,0.866,High internal consistency
+Educational Utility,Q13-Q17,0.766,Acceptable internal consistency
+Pedagogical Impact,Q18-Q22,0.84,High internal consistency
+Ethical Risks,Q23-Q27,0.81,High internal consistency
+Curricular Acceptance,Q28-Q33,0.587,Moderate internal consistency
+Overall Instrument,Q01-Q39,0.907,Excellent internal consistency

@@ -1,0 +1,16 @@
+participant_id,institution,age_range,Q01_general_AI_familiarity,Q02_AI_Literacy,Q03_AI_Literacy,Q04_AI_Literacy,Q05_AI_Literacy,Q06_AI_Literacy,Q07_AI_Literacy,Q08_AI_Literacy,Q09_AI_Literacy,Q10_AI_Literacy,Q11_AI_Literacy,Q12_AI_Literacy,Q13_Educational_Utility,Q14_Educational_Utility,Q15_Educational_Utility,Q16_Educational_Utility,Q17_Educational_Utility,Q18_Pedagogical_Impact,Q19_Pedagogical_Impact,Q20_Pedagogical_Impact,Q21_Pedagogical_Impact,Q22_Pedagogical_Impact,Q23_Ethical_Risks,Q24_Ethical_Risks,Q25_Ethical_Risks,Q26_Ethical_Risks,Q27_Ethical_Risks,Q28_Curricular_Acceptance,Q29_Curricular_Acceptance,Q30_Curricular_Acceptance,Q31_Curricular_Acceptance,Q32_Curricular_Acceptance,Q33_Curricular_Acceptance,Q34_General_Perception,Q35_General_Perception,Q36_General_Perception,Q37_General_Perception,Q38_General_Perception,Q39_General_Perception
+P01,Universidad Central del Ecuador,25-29,3,2,3,2,3,3,1,2,2,2,2,2,4,4,4,4,5,3,5,4,5,3,4,4,4,3,3,5,5,1,3,4,4,3,3,4,3,4,4
+P02,Universidad Central del Ecuador,30-39,3,4,3,3,2,2,3,3,4,3,4,3,2,3,2,3,4,2,3,3,3,2,3,4,3,3,3,2,2,2,3,3,3,3,3,2,2,3,4
+P03,Universidad Central del Ecuador,30-39,4,5,3,5,4,3,4,5,3,5,4,4,3,3,3,3,3,5,4,4,4,4,5,3,5,4,4,2,4,1,3,4,4,5,4,5,5,5,4
+P04,Universidad Central del Ecuador,30-39,5,5,4,3,5,3,4,5,3,4,5,5,5,5,5,4,4,5,5,5,5,5,5,5,5,5,5,4,5,3,4,4,3,5,4,4,5,5,5
+P05,Universidad Central del Ecuador,30-39,3,3,4,4,4,4,4,4,3,4,4,2,3,3,3,3,3,5,4,5,4,5,5,5,5,4,5,3,2,2,4,4,4,5,5,4,4,5,5
+P06,Universidad Central del Ecuador,30-39,4,4,5,5,4,5,5,4,4,4,4,5,4,3,5,5,5,4,4,4,5,4,5,3,3,3,5,5,4,5,3,4,5,3,5,4,4,4,4
+P07,Universidad Central del Ecuador,30-39,4,3,3,4,3,3,2,3,4,3,3,3,2,3,4,3,5,3,4,4,4,3,5,3,4,4,4,5,4,2,5,5,5,3,3,4,4,3,3
+P08,Universidad Central del Ecuador,30-39,4,4,5,5,5,5,5,5,5,5,4,5,3,4,4,3,3,4,4,4,3,4,5,4,3,4,4,4,3,4,5,3,4,4,4,4,3,5,5
+P09,Universidad de Las Américas,30-39,4,3,5,4,4,4,5,5,4,4,4,5,3,4,3,2,5,4,3,3,4,4,4,2,2,4,3,4,4,5,3,3,2,5,3,4,3,3,4
+P10,Universidad de Las Américas,30-39,4,5,5,4,5,5,3,4,5,4,5,4,4,3,4,3,1,4,4,4,4,4,5,5,4,5,5,5,3,5,2,4,3,4,5,5,5,5,3
+P11,Universidad de Las Américas,30-39,4,5,4,3,4,4,4,5,4,3,3,3,2,3,2,5,3,4,4,3,3,3,5,3,5,3,3,4,4,4,5,3,5,3,4,4,5,4,4
+P12,Universidad de Las Américas,30-39,4,4,4,3,3,5,5,4,5,5,4,3,4,3,4,4,4,5,5,4,3,4,5,4,5,5,4,4,4,3,3,3,4,5,5,5,4,4,5
+P13,Universidad de Las Américas,30-39,4,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,5,3,3,3,3,4,3,3,3,3,4,5,5,4,4,4,3,5,5,4,5,5,5
+P14,Universidad de Las Américas,30-39,5,5,4,3,5,5,5,4,4,3,5,4,4,4,4,4,5,3,3,2,4,2,4,5,5,5,5,4,5,5,5,5,4,5,4,4,4,4,4
+P15,Universidad de Las Américas,30-39,4,4,4,4,3,4,4,4,3,4,4,4,4,4,3,4,4,4,3,3,3,2,4,3,5,5,5,5,5,5,4,4,4,4,5,4,3,4,5

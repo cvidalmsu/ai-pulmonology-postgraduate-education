@@ -1,0 +1,8 @@
+file,description
+01_participants.csv,Participant-level demographic variables used in Table III.
+02_content_validation.csv,Expert judgment percentages used in content validation table.
+03_reliability_cronbach_alpha.csv,Cronbach's alpha values reported in the Results section and reliability figure.
+04_perceived_educational_benefits.csv,Aggregated categories supporting RQ1 and educational benefits figure.
+05_ethical_concerns.csv,Aggregated categories supporting RQ2 and ethical concerns figure.
+06_curricular_acceptance.csv,Aggregated categories supporting RQ3 and curricular acceptance figure.
+07_synthetic_questionnaire_responses.csv,Synthetic/anonymized item-level Likert dataset for reproducibility testing. Do not present as original raw data unless it is replaced by the real anonymized responses.
